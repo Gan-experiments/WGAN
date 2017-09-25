@@ -1,1 +1,1 @@
-# WGAN
+# Tensorflow implementation of WGAN
